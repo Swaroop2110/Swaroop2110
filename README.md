@@ -31,8 +31,8 @@
 
 ## 🧑‍💻 Coding Profiles
 
-- 💡 **LeetCode**: Top 20%, 600+ problems solved, Max Rating: 1775  
-- 🏅 **CodeChef**: 3⭐ (Div 2), Max Rating: 1622  
+- 💡 **LeetCode**: Top 7.6%, 700+ problems solved, Max Rating: 1801  
+- 🏅 **CodeChef**: 3⭐ (Div 2), Max Rating: 1638  
 - 🌟 **HackerRank**: 6⭐ in Problem Solving, under 50K Global Rank  
 
 ---

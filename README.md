@@ -8,11 +8,11 @@
 -->
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:0a0f1e,100:0d0d0d&height=280&section=header&text=SWAROOP%20GUPTA&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Competitive%20Programmer%20%E2%80%A2%20Builder&descSize=16&descAlignY=68&descColor=4f9eff&animation=fadeIn&stroke=1a1f3a&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:0a0f1e,100:0d0d0d&height=280&section=header&text=SWAROOP%20GUPTA&fontSize=72&fontColor=ffffff&fontAlignY=4[...]/>
 
 <!-- TYPEWRITER -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=4F9EFF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=%5BSYS%5D+Neural+core+initialized...;%5BSYS%5D+Loading+developer+profile+v2.6...;%5BSYS%5D+Compiling+700%2B+LeetCode+solutions...;%5BSYS%5D+Scanning+competitive+rank+%E2%86%92+Knight+%7C+Top+5.9%25;%5BSYS%5D+Mounting+MERN+stack+modules...;%5BSYS%5D+Connection+established.+Welcome.&width=580" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=4F9EFF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=[...]"/>
 </a>
 
 <br/>
@@ -37,15 +37,15 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
+╔════════════════════════════════════════════════════════════════�[...]
 ║                     ◈  MISSION CONTROL  ◈                          ║
-╠══════════════════════════════════════════════════════════════════════╣
+╠════════════════════════════════════════════════════════════════�[...]
 ║  OPERATOR    ──  Swaroop Gupta                                      ║
 ║  UNIT        ──  Technical Solution Engineer Intern @ AlgoUniversity ║
 ║  BASE        ──  SRM Institute of Science and Technology            ║
 ║  CGPA        ──  9.54 / 10.0   ██████████ 95.4%                    ║
 ║  STATUS      ──  ● ONLINE  │  BUILDING  │  COMPETING               ║
-╚══════════════════════════════════════════════════════════════════════╝
+╚════════════════════════════════════════════════════════════════�[...]
 ```
 
 </div>
@@ -225,12 +225,12 @@ Gamified EdTech platform with quiz engine and progress analytics.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=swaroopgupta&show_icons=true&theme=dark&bg_color=0d1117&title_color=4f9eff&icon_color=4f9eff&text_color=c9d1d9&border_color=1a2744&count_private=true&include_all_commits=true&hide_border=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaroopgupta&layout=compact&theme=dark&bg_color=0d1117&title_color=4f9eff&text_color=c9d1d9&border_color=1a2744&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=swaroopgupta&show_icons=true&theme=dark&bg_color=0d1117&title_color=4f9eff&icon_color=4f9eff&text_color=c9d1d9&border_[...]"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaroopgupta&layout=compact&theme=dark&bg_color=0d1117&title_color=4f9eff&text_color=c9d1d9&border_color=1a[...]/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=swaroopgupta&theme=dark&background=0d1117&border=1a2744&ring=4f9eff&fire=4f9eff&currStreakLabel=4f9eff&sideLabels=8b949e&dates=8b949e" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=swaroopgupta&theme=dark&background=0d1117&border=1a2744&ring=4f9eff&fire=4f9eff&currStreakLabel=4f9eff&sideLabels=8b949e&dates=8b94[...]" />
 
 <br/>
 
@@ -244,7 +244,7 @@ Gamified EdTech platform with quiz engine and progress analytics.
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swaroopgupta&theme=react-dark&bg_color=0d1117&color=4f9eff&line=1a6fdb&point=4f9eff&area=true&hide_border=true)](https://github.com/swaroopgupta)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swaroopgupta&theme=react-dark&bg_color=0d1117&color=4f9eff&line=1a6fdb&point=4f9eff&area=true&hide_border=true)]([...]/>
 
 </div>
 
@@ -282,11 +282,15 @@ Gamified EdTech platform with quiz engine and progress analytics.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swaroop_Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1e)](https://linkedin.com/in/swaroopgupta)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight_%7C_1884-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0a0f1e)](https://leetcode.com/swaroopgupta)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil_%7C_1261-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0a0f1e)](https://codeforces.com/profile/swaroopgupta)
-[![CodeChef](https://img.shields.io/badge/CodeChef-3%E2%98%85_%7C_1638-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0a0f1e)](https://codechef.com/users/swaroopgupta)
-[![Email](https://img.shields.io/badge/Email-Contact-4f9eff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f1e)](mailto:swaroopgupta@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Swaroop2110-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0f1e)](https://github.com/Swaroop2110)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swaroop_Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1e)](https://www.linkedin.com/in/swaroop-gupta-b2b106295/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-swaroop2110-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0a0f1e)](https://leetcode.com/u/swaroop2110/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-swaroop2110-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0a0f1e)](https://codeforces.com/profile/swaroop2110)
+[![CodeChef](https://img.shields.io/badge/CodeChef-swaroop2106-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0a0f1e)](https://www.codechef.com/users/swaroop2106)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-swaroopguy1v2-2EC866?style=for-the-badge&logo=geekforgeeks&logoColor=white&labelColor=0a0f1e)](https://www.geeksforgeeks.org/profile/swaroopguy1v2?tab=overview)
+[![HackerRank](https://img.shields.io/badge/HackerRank-swaroopgupta2005-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0f1e)](https://www.hackerrank.com/profile/swaroopgupta2005)
+[![Resume](https://img.shields.io/badge/Resume-View-4f9eff?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0f1e)](https://drive.google.com/file/d/1cq622q6cpz7jfJ7FqE31mo9tLGunIc5G/view?usp=sharing)
+[![Email](https://img.shields.io/badge/Email-swaroopgupta2005@gmail.com-4f9eff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f1e)](mailto:swaroopgupta2005@gmail.com)
 
 </div>
 

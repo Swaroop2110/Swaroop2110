@@ -38,13 +38,13 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                     ◈  MISSION CONTROL  ◈                          ║
+║                     ◈  MISSION CONTROL  ◈                           ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  OPERATOR    ──  Swaroop Gupta                                      ║
+║  OPERATOR    ──  Swaroop Gupta                                       ║
 ║  UNIT        ──  Technical Solution Engineer Intern @ AlgoUniversity ║
-║  BASE        ──  SRM Institute of Science and Technology            ║
-║  CGPA        ──  9.54 / 10.0   ██████████ 95.4%                    ║
-║  STATUS      ──  ● ONLINE  │  BUILDING  │  COMPETING               ║
+║  BASE        ──  SRM Institute of Science and Technology             ║
+║  CGPA        ──  9.54 / 10.0   ██████████ 95.4%                      ║
+║  STATUS      ──  ● ONLINE  │  BUILDING  │  COMPETING                 ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -126,7 +126,7 @@ Focus   : Pixel-perfect interfaces that convert
 ╔══════════════════╦══════════════════╦══════════════════╗
 ║    LEETCODE      ║    CODECHEF      ║   CODEFORCES     ║
 ╠══════════════════╬══════════════════╬══════════════════╣
-║  ⚔  KNIGHT       ║  ★★★  3-STAR    ║  ◈  PUPIL        ║
+║  ⚔  KNIGHT       ║  ★★★  3-STAR   ║  ◈  PUPIL        ║
 ║  Rating: 1884    ║  Rating: 1638    ║  Rating: 1261    ║
 ║  700+ Problems   ║                  ║                  ║
 ║  Top 5.9% Global ║  Div 2 Regular   ║  Codeforces.com  ║
@@ -147,9 +147,9 @@ Focus   : Pixel-perfect interfaces that convert
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  ◈  PROJECT: MERN JOB PORTAL                               ║
+║  ◈  PROJECT: MERN JOB PORTAL                                ║
 ╠══════════════════════════════════════════════════════════════╣
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  [BUILD IN PROGRESS]     ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  [BUILD IN PROGRESS]       ║
 ║                                                              ║
 ║  ✦ JWT Authentication + Role-Based Access Control           ║
 ║  ✦ RESTful API Architecture (Express + Node.js)             ║

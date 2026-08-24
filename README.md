@@ -41,7 +41,7 @@
 ║                     ◈  MISSION CONTROL  ◈                           ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  OPERATOR    ──  Swaroop Gupta                                       ║
-║  UNIT        ──  Technical Solution Engineer Intern @ AlgoUniversity ║
+║  UNIT        ──  Software Engineer Intern @ AlgoUniversity ║
 ║  BASE        ──  SRM Institute of Science and Technology             ║
 ║  CGPA        ──  9.54 / 10.0   ██████████ 95.4%                      ║
 ║  STATUS      ──  ● ONLINE  │  BUILDING  │  COMPETING                 ║
@@ -62,8 +62,8 @@
 
 ### ▸ AlgoUniversity
 ```yaml
-Role    : Technical Solution Engineer Intern
-Status  : ● Active
+Role    : Software Engineer Intern
+Status  : ● Completed
 Stack   : Full Stack · Problem Solving · EdTech
 Focus   : Bridging logic and learning at scale
 ```

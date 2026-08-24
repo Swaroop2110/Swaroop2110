@@ -41,7 +41,7 @@
 ║                     ◈  MISSION CONTROL  ◈                           ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  OPERATOR    ──  Swaroop Gupta                                       ║
-║  UNIT        ──  Software Engineer Intern @ AlgoUniversity ║
+║  UNIT        ──  Software Engineer Intern @ AlgoUniversity           ║
 ║  BASE        ──  SRM Institute of Science and Technology             ║
 ║  CGPA        ──  9.54 / 10.0   ██████████ 95.4%                      ║
 ║  STATUS      ──  ● ONLINE  │  BUILDING  │  COMPETING                 ║

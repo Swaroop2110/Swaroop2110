@@ -12,7 +12,7 @@
 
 <!-- TYPEWRITER -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=4F9EFF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=%5BSYS%5D+Neural+core+initialized...;%5BSYS%5D+Loading+developer+profile+v2.6...;%5BSYS%5D+Compiling+700%2B+LeetCode+solutions...;%5BSYS%5D+Scanning+competitive+rank+%E2%86%92+Knight+%7C+Top+5.9%25;%5BSYS%5D+Mounting+MERN+stack+modules...;%5BSYS%5D+Connection+established.+Welcome." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=4F9EFF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=%5BSYS%5D+Neural+core+initialized...;%5BSYS%5D+Loading+developer+profile+v2.6...;%5BSYS%5D+Compiling+700%2B+LeetCode+solutions...;%5BSYS%5D+Scanning+competitive+rank+%E2%86%92+Knight+%7C+Top+5.9%25;%5BSYS%5D+Mounting+MERN+stack+modules...;%5BSYS%5D+Connection+established.+Welcome.&width=580" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -38,12 +38,12 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                        ◈  MISSION CONTROL  ◈                         ║
+║                     ◈  MISSION CONTROL  ◈                           ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  OPERATOR    ──  Swaroop Gupta                                       ║
-║  LAST UNIT   ──  Software Engineer Intern @ AlgoUniversity           ║
+║  UNIT        ──  Software Engineer Intern @ AlgoUniversity           ║
 ║  BASE        ──  SRM Institute of Science and Technology             ║
-║  CGPA        ──  9.54 / 10.0   █████████░ 95.4%                      ║
+║  CGPA        ──  9.54 / 10.0   ██████████ 95.4%                      ║
 ║  STATUS      ──  ● ONLINE  │  BUILDING  │  COMPETING                 ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
@@ -54,7 +54,7 @@
 
 ---
 
-## 🕒 &nbsp;EXPERIENCE TIMELINE
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"/> &nbsp;EXPERIENCE TIMELINE
 
 <table width="100%" border="0">
 <tr>
@@ -74,7 +74,7 @@ Focus   : Bridging logic and learning at scale
 ### ▸ Brain Mint
 ```yaml
 Role    : Frontend Developer Intern
-Status  : ● Completed
+Status  : ◉ Completed
 Stack   : React · JavaScript · UI Systems
 Focus   : Pixel-perfect interfaces that convert
 ```
@@ -90,13 +90,13 @@ Focus   : Pixel-perfect interfaces that convert
 <div align="center">
 
 <!-- LANGUAGES -->
-<img src="https://skillicons.dev/icons?i=cpp,py,js,ts&theme=dark&perline=4" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts&theme=dark&perline=4" />&nbsp;&nbsp;
 <!-- FRONTEND -->
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark&perline=4" />&nbsp;&nbsp;
 <!-- BACKEND -->
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark&perline=4" />&nbsp;&nbsp;
 <!-- TOOLS -->
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" />
 
 </div>
 
@@ -106,7 +106,7 @@ Focus   : Pixel-perfect interfaces that convert
 
 | Domain | Arsenal | Level |
 |:---|:---|:---:|
-| **Languages** | C++ · Python · JavaScript · TypeScript | `████████░░` Advanced |
+| **Languages** | C++ · Python · JavaScript | `████████░░` Advanced |
 | **Frontend** | React · HTML · CSS · Tailwind | `███████░░░` Proficient |
 | **Backend** | Node · Express · REST APIs | `██████░░░░` Proficient |
 | **Database** | MongoDB · MySQL · SQL | `██████░░░░` Proficient |
@@ -126,10 +126,10 @@ Focus   : Pixel-perfect interfaces that convert
 ╔══════════════════╦══════════════════╦══════════════════╗
 ║    LEETCODE      ║    CODECHEF      ║   CODEFORCES     ║
 ╠══════════════════╬══════════════════╬══════════════════╣
-║  ◆ KNIGHT        ║  ★ 3-STAR        ║  ◈ PUPIL         ║
+║  ⚔  KNIGHT       ║  ★★★  3-STAR   ║  ◈  PUPIL        ║
 ║  Rating: 1884    ║  Rating: 1638    ║  Rating: 1261    ║
 ║  700+ Problems   ║                  ║                  ║
-║  Top 5.9% Global ║                  ║                  ║
+║  Top 5.9% Global ║  Div 2 Regular   ║  Codeforces.com  ║
 ╚══════════════════╩══════════════════╩══════════════════╝
 ```
 
@@ -141,21 +141,21 @@ Focus   : Pixel-perfect interfaces that convert
 
 ---
 
-## 🚀 FEATURED PROJECT
+## 🚀 ACTIVE PROJECT
 
 <div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  ◈  PROJECT: MERN JOB PORTAL                                 ║
+║  ◈  PROJECT: MERN JOB PORTAL                                ║
 ╠══════════════════════════════════════════════════════════════╣
-║  ████████████████████████████████  [BUILD COMPLETE]          ║
+║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  [BUILD IN PROGRESS]       ║
 ║                                                              ║
-║  ▸ JWT Authentication + Role-Based Access Control            ║
-║  ▸ RESTful API Architecture (Express + Node.js)              ║
-║  ▸ Job Listing · Filtering · Application Tracking            ║
-║  ▸ MongoDB Atlas · Mongoose ODM                              ║
-║  ▸ React Frontend with Protected Routes                      ║
+║  ✦ JWT Authentication + Role-Based Access Control           ║
+║  ✦ RESTful API Architecture (Express + Node.js)             ║
+║  ✦ Job Listing · Filtering · Application Tracking           ║
+║  ✦ MongoDB Atlas · Mongoose ODM                             ║
+║  ✦ React Frontend with Protected Routes                     ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -169,7 +169,7 @@ Focus   : Pixel-perfect interfaces that convert
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 **🌍 Musafir**
 Tourism Management System
@@ -179,7 +179,7 @@ Tourism Management System
 Full-stack travel platform with booking, listings, and itinerary management.
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 **🛡️ Fraud Detector**
 Credit Card Fraud Detection
@@ -189,9 +189,7 @@ Credit Card Fraud Detection
 ML pipeline with anomaly detection on real transaction datasets.
 
 </td>
-</tr>
-<tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 **🧠 Mind Quest**
 Adaptive Learning Platform
@@ -199,16 +197,6 @@ Adaptive Learning Platform
 `React` `Node` `MongoDB`
 
 Gamified EdTech platform with quiz engine and progress analytics.
-
-</td>
-<td align="center" width="50%">
-
-**🚗 TraceFleet**
-Fleet Incident Reconstruction Platform
-
-`Motorq Hackathon` `Connected Vehicle Intelligence`
-
-Fleet incident reconstruction and causal intelligence platform built for the Motorq Connected Vehicle Intelligence Hackathon.
 
 </td>
 </tr>
@@ -237,12 +225,12 @@ Fleet incident reconstruction and causal intelligence platform built for the Mot
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Swaroop2110&show_icons=true&theme=dark&bg_color=0d1117&title_color=4f9eff&icon_color=4f9eff&text_color=c9d1d9&border_color=1a2744&count_private=true&include_all_commits=true&hide_border=false" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swaroop2110&layout=compact&theme=dark&bg_color=0d1117&title_color=4f9eff&text_color=c9d1d9&border_color=1a2744&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Swaroop2110&show_icons=true&theme=dark&bg_color=0d1117&title_color=4f9eff&icon_color=4f9eff&text_color=c9d1d9&border_color=1a2744&count_private=true&include_all_commits=true&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swaroop2110&layout=compact&theme=dark&bg_color=0d1117&title_color=4f9eff&text_color=c9d1d9&border_color=1a2744&langs_count=8" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Swaroop2110&theme=dark&background=0d1117&border=1a2744&ring=4f9eff&fire=4f9eff&currStreakLabel=4f9eff&sideLabels=8b949e&dates=8b949e" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Swaroop2110&theme=dark&background=0d1117&border=1a2744&ring=4f9eff&fire=4f9eff&currStreakLabel=4f9eff&sideLabels=8b949e&dates=8b949e" />
 
 <br/>
 

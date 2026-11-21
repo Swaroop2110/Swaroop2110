@@ -196,7 +196,7 @@ Adaptive Learning Platform
 
 `React` `Node` `MongoDB`
 
-Gamified EdTech platform with quiz engine and progress analytics.
+Gamified EdTech platform with quiz engine and progress analytic.
 
 </td>
 </tr>
